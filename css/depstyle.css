@@ -60,6 +60,11 @@
 }
 .der{
     margin-top: -320px;
+    margin-right: auto;
+    margin-left: auto;
+    right: auto;
+    width: 40%;
+
 }
 .izq2{
     display: block;
@@ -67,7 +72,9 @@
 
 }
 .der2{
-    margin-top: -320px;
+    margin-top: -250px;
     right: auto;
     width: 40%;
+    margin-right: auto;
+    margin-left: auto;
 }
