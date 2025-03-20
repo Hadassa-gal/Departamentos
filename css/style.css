@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Delius+Swash+Caps&family=Pacifico&family=Zain:ital,wght@0,200;0,300;0,400;0,700;0,800;0,900;1,300;1,400&display=swap');
+*{
+    margin: 3px;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Delius Swash Caps', cursive;
+}
+.cuerpo{
+    background: #F2EEB6
+}
+.texto{
+    width: 64%;
+    height: auto;
+    overflow: visible;
+    box-sizing: border-box;
+    white-space: normal;
+    padding: 5px;
+}
+.titulo{
+    background-color: #D9A491;
+    border-radius: 50px;
+    box-shadow: 0 4px 8px 0 #EACC9E;
+    font-family: delius swash caps;
+    font-style: inherit;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    margin: 1%;
+}
+.contenido{
+    background: #F2EEB6;
+    background: radial-gradient(circle, #D9A491 5%, #F2EEB6 100%);
+    border-radius: 50px;
+    padding: 30px;
+    overflow: auto;
+    font-size: 30px;
+    width: 90%;
+    margin: 5%;
+    text-align: justify;
+}
+.info{
+    font-family: delius swash caps;
+    font-style: inherit;
+    font-size: 30px;
+    margin: 8%;
+}
+.mapa{
+    box-shadow: 0 2px 4px 0 #EACC9E;
+    border-radius: 50px;
+    margin: 1%;
+}
+.mapa:hover{
+    box-shadow: 0 8px 16px 0 #EACC9E;
+    transition: ease-in-out 0.3s;
+}

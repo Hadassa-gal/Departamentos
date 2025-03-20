@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Delius+Swash+Caps&family=Pacifico&family=Zain:ital,wght@0,200;0,300;0,400;0,700;0,800;0,900;1,300;1,400&display=swap');
+*{
+    margin: 3px;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Delius Swash Caps', cursive;
+}
+.cuerpo{
+    background: #EACC9E;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+.titulo{
+    background-color: #D9A491;
+    border-radius: 50px;
+    box-shadow: 0 4px 8px 0 #EACC9E;
+    font-family: delius swash caps;
+    font-style: inherit;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    margin: 1%;
+}
+.imagen{
+    height: 300px;
+    display: block;
+    box-sizing: border-box;
+    margin: 0 auto;
+    box-shadow: 0 5px 8px 0 #D9A491;
+    border-radius: 50px;
+}
+.parrafo{
+    color: #fff;
+    font-size: 1.2em;
+    text-align: justify;
+    margin: 3%;
+    padding: 0;
+}
