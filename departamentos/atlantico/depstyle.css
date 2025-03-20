@@ -55,3 +55,19 @@
     margin: 3%;
     padding: 0;
 }
+.izq{
+    width: 60%;
+}
+.der{
+    margin-top: -320px;
+}
+.izq2{
+    display: block;
+    width: 60%;
+
+}
+.der2{
+    margin-top: -320px;
+    right: auto;
+    width: 40%;
+}
