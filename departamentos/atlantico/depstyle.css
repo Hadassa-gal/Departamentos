@@ -32,6 +32,19 @@
     box-shadow: 0 5px 8px 0 #D9A491;
     border-radius: 50px;
 }
+.titul{
+    color: #000;
+    text-shadow: 0 4px #EACC9E;
+    background-color: #D9A491;
+    border-radius: 50px;
+    box-shadow: 0 4px 8px 0 #EACC9E;
+    font-family: delius swash caps;
+    font-style: inherit;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    margin: 1%;
+}
 .parrafo{
     background: #F2EEB6;
     background: radial-gradient(circle, #D9A491 5%, #EACC9E 100%);
