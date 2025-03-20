@@ -43,6 +43,10 @@
     font-style: inherit;
     font-size: 30px;
     margin: 8%;
+    background: #F2EEB6;
+    background: radial-gradient(circle, #D9A491 5%, #F2EEB6 30%);
+    border-radius: 50px;
+    text-align: center;
 }
 .mapa{
     box-shadow: 0 2px 4px 0 #EACC9E;

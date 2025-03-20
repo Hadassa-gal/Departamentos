@@ -12,6 +12,8 @@
     font-family: Arial, sans-serif;
 }
 .titulo{
+    color: #000;
+    text-shadow: 0 4px #EACC9E;
     background-color: #D9A491;
     border-radius: 50px;
     box-shadow: 0 4px 8px 0 #EACC9E;
@@ -31,8 +33,11 @@
     border-radius: 50px;
 }
 .parrafo{
-    color: #fff;
-    font-size: 1.2em;
+    background: #F2EEB6;
+    background: radial-gradient(circle, #D9A491 5%, #EACC9E 100%);
+    color: #000;
+    text-shadow: 0 4px #D9A491;
+    font-size: 30px;
     text-align: justify;
     margin: 3%;
     padding: 0;
