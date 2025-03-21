@@ -96,9 +96,20 @@
     font-size: 30px;
     font-weight: bold;
     color: #F2EEB6;
-    background-color: #55538F;
+    background-color: #D9A491;
     padding: 10px;
     border-radius: 50px;
-    text-shadow: 0 4px 5px #D9A491;
+    text-shadow: 0 4px 5px #A64195;
     text-decoration: none;
+    box-shadow:0 4px 5px #A64195;
+}
+.botn:hover{
+    transform: scale(1.1);
+    transition: ease-in-out;
+}
+.regreso:hover{
+    transition: ease-in-out 400ms;
+    background-color: #A64195;
+    box-shadow:0 4px 5px #55538F;
+    text-shadow: 0 4px 5px #55538F;
 }
